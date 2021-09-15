@@ -33,11 +33,13 @@ cocina: 'Cooking is science 🔬'
 ```
 
 - 💬 Me podés encontrar también en: 
-```JSON
+```javascript
 {
-  "IG": "https://www.instagram.com/beworker/",
-  "IG": "https://www.instagram.com/andres.monsa/",
-  "YouTube": "https://www.youtube.com/channel/UC_kuIL7s2F5iwNy7JqG4jEA",
+  const redes: {
+  IG: https://www.instagram.com/beworker/,
+  IG: https://www.instagram.com/andres.monsa/,
+  YouTube: https://www.youtube.com/channel/UC_kuIL7s2F5iwNy7JqG4jEA
+  }
 }
 ```
 
