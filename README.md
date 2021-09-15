@@ -11,7 +11,8 @@
   "email": "monsalbefotografia@gmail.com",
   "linkedin": "https://www.linkedin.com/in/fullstack-andres-monsalbe/"
 }
-```JSON
+```
+
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
