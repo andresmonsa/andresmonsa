@@ -1,9 +1,9 @@
 ### AboutMe
-```
+```javascript
 let Andrés = {
- "name": "Andrés",
- "lastName": "Monsalbe",
- "age": 32,
+ name: "Andrés",
+ lastName: "Monsalbe",
+ age: 32,
 
 }
 ```
