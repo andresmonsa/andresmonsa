@@ -1,4 +1,3 @@
-### Hi there 👋
 ### AboutMe
 ```
 let Andrés = {
@@ -12,18 +11,19 @@ let Andrés = {
 - 🔭 Mi nombre es Andrés Monsalbe, tengo 32 años y soy desarrollador FullStack
 - 🌱 Me gusta estar aprendiendo cosas nuevas todo el tiempo y encontré en la programación la posibilidad de poder mantenerme activo y enfocado.
 - 👯 Me gusta formar parte de grupos de trabajos y poder compartir conocimientos con personas con intereses en común.
-- 🤔 Estoy buscando trabajo como desarrollador Full-Stack. 
+- 👀 Estoy buscando trabajo como desarrollador Full-Stack. 
 
+<br>
 
-- 📫 Me pueden contactar por =>, 
-```JSON
-{
-  "email": "monsalbefotografia@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/fullstack-andres-monsalbe/",
-}
-```
+###  Me pueden contactar por: 
 
-- Además de la programación me gustan:
+ - email: monsalbefotografia@gmail.com.com ,
+ - linkedin: https://www.linkedin.com/in/fullstack-andres-monsalbe/ ,
+
+<br>
+
+###  Además de la programación me gustan:
+
  ```javascript
 const intereses = {
 viajar: 'Preferentemente en moto y por la montaña🛵',
@@ -32,10 +32,10 @@ video: 'Edición y toma 🎬',
 cocina: 'Cooking is science 🔬'
 ```
 
-- 💬 Me podés encontrar también en: 
+###  Me podés encontrar también en: 
 - IG: https://www.instagram.com/beworker/
 - IG: https://www.instagram.com/andres.monsa/,
 - YouTube: https://www.youtube.com/channel/UC_kuIL7s2F5iwNy7JqG4jEA
 
-- ⚡ Fun fact: ...
+
 
