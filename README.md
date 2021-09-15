@@ -15,6 +15,21 @@ const Andrés = {
 
 <br>
 
+###  Tengo conocimientos en: 
+<p align ="center">
+  <img width="200" src="./Img/javascript.png"/>
+  <img width="200" src="./Img/express.svg"/>
+  <img width="200" src="./Img/redux.svg"/>
+  <img width="200" src="./Img/postgres.svg"/>
+  <img width="200" src="./Img/react.svg"/>
+  <img width="200" src="./Img/sequelize.svg"/>
+
+</p>
+
+
+
+
+
 ###  Me pueden contactar por: 
 
  - email: monsalbefotografia@gmail.com.com ,
