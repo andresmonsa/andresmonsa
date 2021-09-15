@@ -25,10 +25,11 @@ let Andrés = {
 
 - Además de la programación me gustan:
  ```javascript
-Las motos
-La fotografía
-Grabación y edición de videos
-La cocina
+const intereses = {
+viajar: 'Preferentemente en moto y por la montaña🛵'
+fotografía: 'Regristro documental de eventos y los retratos📸'
+video: 'Edición y toma 🎞'
+cocina: 'Cooking is science😎'
 ```
 
 - 💬 Me podés encontrar también en: 
