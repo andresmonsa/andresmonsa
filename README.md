@@ -17,15 +17,15 @@ const Andrés = {
 
 ###  Tengo conocimientos en: 
 <p align ="center" >
-  <img width="150" src="./Img/javascript.png"/>
-  <img width="180" src="./Img/express.svg"/>
-  <img width="170" src="./Img/redux.svg"/>
-  <img width="300" src="./Img/postgres.svg"/>
-  <img width="200" src="./Img/react.svg"/>
-  <img width="200" src="./Img/sequelize.svg"/>
-  <img width="200" src="./Img/Bootstrap.png"/>
-  <img width="300" src="./Img/materialUI.png"/>
-  <img width="300" src="./Img/css.png"/>
+  <img width="100" src="./Img/javascript.png"/>
+  <img width="130" src="./Img/express.svg"/>
+  <img width="120" src="./Img/redux.svg"/>
+  <img width="250" src="./Img/postgres.svg"/>
+  <img width="150" src="./Img/react.svg"/>
+  <img width="150" src="./Img/sequelize.svg"/>
+  <img width="150" src="./Img/Bootstrap.png"/>
+  <img width="250" src="./Img/materialUI.png"/>
+  <img width="250" src="./Img/css.png"/>
 
 </p>
 
