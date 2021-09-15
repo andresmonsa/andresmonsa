@@ -16,19 +16,18 @@ const Andrés = {
 <br>
 
 ###  Tengo conocimientos en: 
-<p align ="center">
-  <img width="200" src="./Img/javascript.png"/>
-  <img width="200" src="./Img/express.svg"/>
-  <img width="200" src="./Img/redux.svg"/>
-  <img width="200" src="./Img/postgres.svg"/>
+<p align ="center" >
+  <img width="150" src="./Img/javascript.png"/>
+  <img width="180" src="./Img/express.svg"/>
+  <img width="170" src="./Img/redux.svg"/>
+  <img width="300" src="./Img/postgres.svg"/>
   <img width="200" src="./Img/react.svg"/>
   <img width="200" src="./Img/sequelize.svg"/>
+  <img width="200" src="./Img/Bootstrap.png"/>
+  <img width="300" src="./Img/materialUI.png"/>
+  <img width="300" src="./Img/css.png"/>
 
 </p>
-
-
-
-
 
 ###  Me pueden contactar por: 
 
