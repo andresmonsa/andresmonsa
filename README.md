@@ -1,6 +1,6 @@
 ### AboutMe
 ```javascript
-let Andrés = {
+const Andrés = {
  name: "Andrés",
  lastName: "Monsalbe",
  age: 32,
