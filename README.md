@@ -31,7 +31,7 @@ const Andrés = {
 
 ###  Me pueden contactar por: 
 
- - email: monsalbefotografia@gmail.com.com ,
+ - email: monsalbefotografia@gmail.com ,
  - linkedin: https://www.linkedin.com/in/fullstack-andres-monsalbe/ ,
 
 <br>
