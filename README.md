@@ -46,11 +46,5 @@ video: 'Edición y toma 🎬',
 cocina: 'Cooking is science 🔬'
 ```
 
-###  Me podés encontrar también en: 
-- IG: https://www.instagram.com/beworker/
-- IG: https://www.instagram.com/andres.monsa/,
-- YouTube: https://www.youtube.com/channel/UC_kuIL7s2F5iwNy7JqG4jEA
-- Sitio Personal: http://andresmonsalbe.com/
-
 
 
